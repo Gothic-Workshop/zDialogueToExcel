@@ -1,0 +1,197 @@
+DIA_PC_Thief.d: Diego
+DIA_PC_ThiefOW.d: Diego
+DIA_PC_Thief_OW.d: Diego
+DIA_PC_Thief_NW.d: Diego
+DIA_PC_Thief_DI.d: Diego
+DIA_PC_Psionic.d: Lester
+DIA_PC_Psionic_DI.d: Lester
+DIA_PC_Mage.d: Milten
+DIA_PC_Mage_OW.d: Milten
+DIA_PC_Mage_NW.d: Milten
+DIA_PC_Mage_DI.d: Milten
+DIA_PC_Fighter.d: Gorn
+DIA_PC_FighterFM.d: Gorn
+DIA_PC_Fighter_OW.d: Gorn
+DIA_PC_Fighter_NW_vor_DJG.d: Gorn
+DIA_PC_Fighter_NW.d: Gorn
+DIA_PC_Fighter_DJG.d: Gorn
+DIA_PC_Fighter_NW_Nach_DJG.d: Gorn
+DIA_PC_Fighter_DI.d: Gorn
+DIA_STT_336_Cavalorn.d: Cavalorn
+DIA_Addon_BAU_4300_Cavalorn.d: Cavalorn
+DIA_NOV_1357_Fortuno.d: Fortuno
+DIA_Addon_BDT_1075_Fortuno.d: Fortuno
+DIA_GRD_233_Bloodwyn.d: Bloodwyn
+DIA_Addon_BDT_1085_Bloodwyn.d: Bloodwyn
+DIA_GRD_210_Scatty.d: Scatty
+DIA_Addon_BDT_1086_Scatty.d: Scatty
+DIA_EBR_105_Raven.d: Raven
+DIA_Addon_BDT_1090_Raven.d: Raven
+DIA_STT_311_Fisk.d: Fisk
+DIA_Addon_BDT_1097_Fisk.d: Fisk
+DIA_VLK_581_Snaf.d: Snaf
+DIA_Addon_BDT_1098_Snaf.d: Snaf
+DIA_VLK_538_Huno.d: Huno
+DIA_Addon_BDT_1099_Huno.d: Huno
+DIA_GRD_200_Thorus.d: Thorus
+DIA_Addon_BDT_10014_Thorus.d: Thorus
+DIA_KDW_600_Saturas.d: Saturas
+DIA_Addon_KDW_1400_Saturas_NW.d: Saturas
+DIA_Addon_KDW_14000_Saturas_ADW.d: Saturas
+DIA_KDW_601_Myxir.d: Myxir
+DIA_Addon_KDW_1403_Myxir_NW.d: Myxir
+B_Addon_Myxir_TeachRequest.d: Myxir
+DIA_Addon_KDW_14030_Myxir_ADW.d: Myxir
+DIA_Addon_KDW_140300_Myxir_City.d: Myxir
+DIA_KDW_602_Merdarion.d: Merdarion
+DIA_Addon_KDW_1405_Merdarion_NW.d: Merdarion
+DIA_Addon_KDW_14050_Merdarion_ADW.d: Merdarion
+DIA_KDW_603_Nefarius.d: Nefarius
+DIA_Addon_KDW_1402_Nefarius_NW.d: Nefarius
+DIA_Addon_KDW_14020_Nefarius_ADW.d: Nefarius
+DIA_KDW_604_Cronos.d: Cronos
+DIA_Addon_KDW_1401_Cronos_NW.d: Cronos
+DIA_Addon_KDW_14010_Cronos_ADW.d: Cronos
+DIA_KDW_605_Riordian.d: Riordian
+DIA_Addon_KDW_1404_Riordian_NW.d: Riordian
+B_Addon_Riordian_TeachWisp.d: Riordian
+DIA_Addon_KDW_14040_Riordian_ADW.d: Riordian
+DIA_Addon_PIR_1300_Greg_NW.d: Greg
+DIA_Addon_PIR_1320_Greg.d: Greg
+DIA_Addon_PIR_1301_Skip_NW.d: Skip
+DIA_Addon_PIR_1355_Skip.d: Skip
+DIA_Addon_STRF_1118_Patrick.d: Patrick
+DIA_Addon_STRF_1123_Patrick_NW.d: Patrick
+DIA_Addon_STRF_1119_Monty.d: Monty
+DIA_Addon_STRF_1124_Monty_NW.d: Monty
+DIA_Addon_STRF_1120_Tonak.d: Tonak
+DIA_Addon_STRF_1125_Tonak_NW.d: Tonak
+DIA_Addon_STRF_1121_Telbor.d: Telbor
+DIA_Addon_STRF_1126_Telbor_NW.d: Telbor
+DIA_Addon_STRF_1122_Pardos.d: Pardos
+DIA_Addon_STRF_1126_Pardos_NW.d: Pardos
+DIA_STT_329_Dexter.d: Dexter
+DIA_BDT_1060_Dexter.d: Dexter
+DIA_ORG_873_Cipher.d: Cipher
+DIA_DJG_703_Cipher.d: Cipher
+DIA_GUR_1202_CorAngar.d: Angar
+DIA_DJG_705_Angar.d: Angar
+DIA_DJG_705_Angar_NW.d: Angar
+DIA_DJG_705_Angar_DI.d: Angar
+DIA_DJG_713_Biff.d: Biff
+DAI_DJG_713_Biff.d: Biff
+DIA_DJG_713_Biff_NW.d: Biff
+DIA_DJG_713_Biff_DI.d: Biff
+DIA_KDF_404_Xardas.d: Xardas
+DIA_KDF_406_XardasOT.d: Xardas
+DIA_NONE_100_Xardas.d: Xardas
+DIA_NONE_101_Mario.d: Mario
+DIA_NONE_101_Mario_DI.d: Mario
+DIA_NOV_600_Pedro.d: Pedro
+DIA_NOV_600_Pedro_DI.d: Pedro
+DIA_PAL_207_Girion.d: Girion
+DIA_PAL_207_Girion_DI.d: Girion
+DIA_SLD_700_Lee.d: Lee
+DIA_SLD_800_Lee.d: Lee
+DIA_SLD_800_Lee_DI.d: Lee
+DIA_SLD_737_Torlof.d: Torlof
+DIA_SLD_801_Torlof.d: Torlof
+DIA_SLD_801_Torlof_DI.d: Torlof
+DIA_SLD_728_Jarvis.d: Jarvis
+DIA_SLD_808_Jarvis.d: Jarvis
+DIA_SLD_709_Cord.d: Cord
+DIA_SLD_805_Cord.d: Cord
+DIA_ORG_855_Wolf.d: Wolf
+DIA_SLD_811_Wolf.d: Wolf
+DIA_SLD_811_Wolf_DI.d: Wolf
+DIA_ORG_833_Buster: Buster
+DIA_SLD_802_Buster.d: Buster
+DIA_SLD_809_Bennet.d: Bennet
+DIA_SLD_809_Bennet_DI.d: Bennet
+DIA_VLK_439_Vatras.d: Vatras
+B_LastWarningVatras.d: Vatras
+B_Preach_Vatras.d: Vatras
+DIA_VLK_439_Vatras_DI.d: Vatras
+DIA_VLK_444_Jack.d: Jack
+DIA_VLK_444_Jack_DI.d: Jack
+DIA_ORG_801_Lares.d: Lares
+DIA_VLK_449_Lares.d: Lares
+DIA_VLK_449_Lares_DI.d: Lares
+DIA_VLK_4130_Talbin.d: Talbin
+DIA_VLK_4132_Talbin_NW.d: Talbin
+DIA_VLK_4130_Talbin_NW.d: Talbin
+DIA_VLK_4250_Jorgen.d: Jorgen
+DIA_VLK_4250_Jorgen_DI.d: Jorgen
+DIA_VLK_586_Grimes.d: Grimes
+DIA_VLK_4111_Grimes.d: Grimes
+DIA_SLD_804_Rod.d: Rod
+DIA_DJG_702_Rod.d: Rod
+DIA_SLD_807_Bullco.d: Bullco
+DIA_DJG_701_Bullco.d: Bullco
+DIA_SLD_806_Sylvio.d: Sylvio
+DIA_DJG_700_Sylvio.d: Sylvio
+B_Announce_Herold.d: Herold
+DIA_VLK_406_Herold.d: Herold
+B_AssignDragonTalk_Main.d: Pandrodor
+B_AssignDragonTalk_Swamp.d: Pandrodor
+B_AssignDragonTalk_Main.d: Feomathar
+B_AssignDragonTalk_Fire.d: Feomathar
+B_AssignDragonTalk_Main.d: Pedrakhan
+B_AssignDragonTalk_Rock.d: Pedrakhan
+B_AssignDragonTalk_Main.d: Finkregh
+B_AssignDragonTalk_Ice.d: Finkregh
+B_Dragon_Fire_Island.d: Feodaron
+DIA_Dragon_Undead.d: Undead Dragon
+B_Dragon_Undead.d: Undead Dragon
+B_AssignOrc_AntiPaladinTalk.d: Orc Generals
+B_AssignSchiffswachenTalk.d: Paladins on Esmeralda
+DIA_VLK_440_Bartok.d: Bartok
+B_Bartok_ShitAnOrc.d: Bartok
+B_AssignDementorTalk.d: Seekers
+B_AssignDementorTalk_Ritual.d: Seekers
+B_NpcObsessedByDMT.d: Seekers
+DIA_DMT_1200_Dementor.d: Seekers
+DIA_Orc_Shaman.d: Ur-Shak
+B_Urshak.d: Ur-Shak
+B_Liesel.d: Sheep
+B_LieselMaeh.d: Sheep
+B_BDT_10xx_Fluechtling.d: Morgahard's accomplices
+B_AssignAmbientInfos_Addon_BL_BDT_1.d: Bandits in the camp
+B_AssignAmbientInfos_Addon_BL_BDT_13.d: Bandits in the camp
+B_AssignAmbientInfos_Addon_TAL_BDT_1.d: Bandits in the swamp
+B_AssignAmbientInfos_Addon_TAL_BDT_13.d: Bandits in the swamp
+B_AssignAmbientInfos_Addon_Sklaven_3.d: Prisoner in gold mine
+B_AssignAmbientInfos_BAU_1.d: Onar's Farmers
+B_AssignAmbientInfos_BAU_7.d: Onar's Farmers
+B_AssignAmbientInfos_BAU_13.d: Onar's Farmers
+B_AssignAmbientInfos_BAU_16.d: Onar's Farmers
+B_AssignAmbientInfos_BDT_1.d: Dexter's Bandits
+B_AssignAmbientInfos_BDT_13.d: Dexter's Bandits
+B_AssignAmbientInfos_MIL_6.d: Militia
+B_AssignAmbientInfos_MIL_7.d: Militia
+B_AssignAmbientInfos_NOV_3.d: Fire Novices
+B_AssignAmbientInfos_NOV_8.d: Fire Novices
+B_AssignAmbientInfos_OcPAL_4.d: Paladins in the Castle
+B_AssignAmbientInfos_OcPAL_9.d: Paladins in the Castle
+B_AssignAmbientInfos_OcVLK_1.d: Men-at-arms
+B_AssignAmbientInfos_OcVLK_6.d: Men-at-arms
+B_AssignAmbientInfos_OwPAL_4.d: Paladins outside the Castle
+B_AssignAmbientInfos_OUT_1.d: Farmers
+B_AssignAmbientInfos_OUT_7.d: Farmers
+B_AssignAmbientInfos_OUT_13.d: Farmers
+B_AssignAmbientInfos_PAL_4.d: Paladins
+B_AssignAmbientInfos_PAL_9.d: Paladins
+B_AssignAmbientInfos_PAL_12.d: Paladins
+B_AssignAmbientInfos_SLD_6.d: Mercenaries
+B_AssignAmbientInfos_SLD_7.d: Mercenaries
+B_AssignAmbientInfos_STRF_1.d: Prisoners in the castle
+B_AssignAmbientInfos_STRF_13.d: Prisoners in the castle
+B_AssignAmbientInfos_VLK_1.d: Citizens
+B_AssignAmbientInfos_VLK_6.d: Citizens
+B_AssignAmbientInfos_VLK_8.d: Citizens
+B_AssignAmbientInfos_VLK_16.d: Citizens
+B_AssignAmbientInfos_VLK_17.d: Citizens
+DIA_Addon_WispDetector.d: Wisp
+B_IrrlichtBeep.d: Wisp
+DIA_Addon_BDT_1082_Skinner.d: Skinner
+B_AssignToughGuyNews.d: Skinner

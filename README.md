@@ -53,7 +53,7 @@ pip install pandas openpyxl pyyaml
 ```
 Then run the script:
 ```bash
-python extract_dialogues_borders_fixed.py
+python extract_dialogues_formatted.py
 ```
 All output .xlsx files will appear in the Output/ folder.
 
